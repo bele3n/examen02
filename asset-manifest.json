@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/examen02/static/css/main.a4b3b120.css",
+    "main.js": "/examen02/static/js/main.7cdc0886.js",
+    "static/js/787.fc653bd4.chunk.js": "/examen02/static/js/787.fc653bd4.chunk.js",
+    "static/media/imagen1.jpg": "/examen02/static/media/imagen1.85f2983fede117560daf.jpg",
+    "static/media/imagen3.jpg": "/examen02/static/media/imagen3.922745cc7a4537b1e581.jpg",
+    "static/media/imagen4.jpg": "/examen02/static/media/imagen4.d01e96606b66943cb21f.jpg",
+    "static/media/imagen2.jpg": "/examen02/static/media/imagen2.c87c3f646df71411011a.jpg",
+    "index.html": "/examen02/index.html",
+    "main.a4b3b120.css.map": "/examen02/static/css/main.a4b3b120.css.map",
+    "main.7cdc0886.js.map": "/examen02/static/js/main.7cdc0886.js.map",
+    "787.fc653bd4.chunk.js.map": "/examen02/static/js/787.fc653bd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b3b120.css",
+    "static/js/main.7cdc0886.js"
+  ]
+}
